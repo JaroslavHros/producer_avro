@@ -1,0 +1,15 @@
+{
+  "namespace": "cz.kafka.test",
+  "type": "record",
+  "name": "AvroMessage",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    }
+  ]
+}
