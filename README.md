@@ -1,4 +1,4 @@
-# Kafka Producer (Avro'
+# Kafka Producer (Avro)
 This is simple Java App which is can produce and also consume avro messages from kafka cluster.
 
 ## Prerequisities
