@@ -4,7 +4,7 @@ This is simple Java App which is can produce and also consume avro messages from
 ## Prerequisities
 - running kafka cluster with
 - create topic in kafka cluster
-- dependencies like kafka-clients, avro-tools etc..
+- dependencies like kafka-clients, avro-tools etc.. (for details see `pom.xml`)
 ## Usage
 1. clone the repo
 2. use avro-tools to compile avro schema to the java class using:
